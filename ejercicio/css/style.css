@@ -1,0 +1,86 @@
+body {
+    padding: 5px 250px 10px 250px;
+    background: #545454;
+}
+
+header {
+    color: #FFFFFF;
+    font: 110% "Calibri light";
+    line-height: 1px;
+}
+
+h2 {
+    font: 100% "Calibri light";
+    line-height: 1px;
+}
+
+#menu {
+    background: #FF8000;
+    float: left;
+    width: 100%;
+    font: 110% monospace;
+}
+
+#menu li {
+    display: inline-block;
+    list-style: none;
+    padding: 20px 10px 0px 0px;
+    color: #FFFFFF;
+
+}
+
+#menu li:hover {
+    background-color: #383838;
+}
+
+p {
+    text-align: justify;
+}
+
+#izquierda {
+    float: left;
+    width: 80%;
+    background: #FFFFFF;
+    font: 100% monospace;
+}
+
+#izquierda h2 {
+    color: #FF8000;
+    font-size: 160%;
+}
+
+#izquierda article {
+    padding: 0px 30px;
+}
+
+#derecha {
+    float: left;
+    width: 20%;
+    height: 497px;
+    background: #FFFFFF;
+    font: 100% monospace;
+
+}
+
+#derecha ul {
+    list-style-type: none;
+}
+
+#derecha li {
+    color: #FF8000;
+    padding: 0px 10px;
+}
+
+#pie-pagina {
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    font: 100% "Calibri light";
+    padding: 10px 0px 10px 0px;
+}
+
+#pie-pagina u {
+    color: #FF8000;
+    font: 100% "Calibri light";
+}
